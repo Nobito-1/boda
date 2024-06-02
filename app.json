@@ -1,7 +1,7 @@
 {
-    "name": "بـوت اختراق جلسـات 🕷.",
-    "description": "- اختراق جلسـات تيـتو.",
-    "logo": "https://telegra.ph/file/7eb66e0c1254c8484d85f.jpg",
+    "name": "بـوت اختراق جلسـات🫧 .",
+    "description": "- اختراق جلسـات بودا🫧.",
+    "logo": "https://telegra.ph/file/0ffb4293a238c59a6b0f0.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -11,27 +11,27 @@
     ],
     "env": {
       "API_ID": {
-        "description": "- الايبي ايدي 🕷.",
+        "description": "- الايبي ايدي 🫧.",
         "value": "14050586",
         "required": true
       },
       "API_HASH": {
-        "description": "- ايبي هـاش 🕷.",
+        "description": "- ايبي هـاش 🫧.",
         "value": "42a60d9c657b106370c79bb0a8ac560c",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "- توكـن بوتك 🕷.",
+        "description": "- توكـن بوتك 🫧.",
         "value": "",
         "required": true
       },
       "MONGO_URL": {
-        "description": "- المونجـو 🕷.",
+        "description": "- المونجـو 🫧.",
         "value": "",
         "required": true
       },
       "SUDOERS": {
-        "description": "- ايدي المـطور 🕷.",
+        "description": "- ايدي المـطور 🫧.",
         "value": "1808943146",
         "required": true
       },
@@ -46,7 +46,7 @@
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "- ايدي الجـروب يبـدا -100 🕷.",
+        "description": "- ايدي الجـروب يبـدا -100 🫧.",
         "value": "",
         "required": true
       }
